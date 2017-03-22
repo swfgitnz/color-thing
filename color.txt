@@ -15,3 +15,5 @@
    -leaf
    -cucumber
    -watermelon
+   
+   *PURPLE
