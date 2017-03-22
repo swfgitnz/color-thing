@@ -27,3 +27,4 @@
      
      *BROWN
       -coconut
+      -kiwi
