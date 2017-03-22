@@ -6,3 +6,7 @@
   -salt
   -sugar
   -rice
+  
+ *YELLOW
+  -sun
+  -banana
