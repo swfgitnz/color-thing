@@ -19,4 +19,6 @@
    *PURPLE
     -eggplant
     -purple1
+    
+    *ORANGE
  
