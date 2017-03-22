@@ -15,3 +15,8 @@
    -leaf
    -cucumber
    -watermelon
+   
+   *PURPLE
+    -eggplant
+    -purple1
+    -purple2
