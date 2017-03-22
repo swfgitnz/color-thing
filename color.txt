@@ -1,34 +1,3 @@
-*BLUE
-  -ocean
-  -sky
-  
-*WHITE
-  -salt
-  -sugar
-  -rice
-  
- *YELLOW
-  -sun
-  -banana
-  
-  *GREEN
-   -leaf
-   -cucumber
-   -watermelon
-   -greenbean
-   
-   *PURPLE
-    -eggplant
-    -purple1
-    
-    *ORANGE
-     -carrot
-     -pumpkin
-     
-     *BROWN
-      -coconut
-      -kiwi
-      
-      *RED
+
       
       *SOMETHING
