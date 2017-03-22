@@ -20,4 +20,7 @@
    *PURPLE
     -eggplant
     -purple1
- 
+    
+    *ORANGE
+     -carrot
+     -pumpkin
