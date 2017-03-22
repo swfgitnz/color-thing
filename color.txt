@@ -15,6 +15,7 @@
    -leaf
    -cucumber
    -watermelon
+   -greenbean
    
    *PURPLE
     -eggplant
@@ -23,3 +24,13 @@
     *ORANGE
      -carrot
      -pumpkin
+     
+     *BROWN
+      -coconut
+      -kiwi
+      
+      *RED
+      
+      *SOMETHING
+       something1
+       something2
