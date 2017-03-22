@@ -24,3 +24,5 @@
     *ORANGE
      -carrot
      -pumpkin
+     
+     *BROWN
