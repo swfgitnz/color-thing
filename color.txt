@@ -15,6 +15,7 @@
    -leaf
    -cucumber
    -watermelon
+   -greenbean
    
    *PURPLE
     -eggplant
