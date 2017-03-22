@@ -10,3 +10,8 @@
  *YELLOW
   -sun
   -banana
+  
+  *Black
+    -night
+    -coal
+    -hair
