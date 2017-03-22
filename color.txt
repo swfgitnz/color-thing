@@ -30,3 +30,5 @@
       -kiwi
       
       *RED
+      
+      *SOMETHING
