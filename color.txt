@@ -19,4 +19,4 @@
    *PURPLE
     -eggplant
     -purple1
-    -purple2
+ 
