@@ -17,3 +17,4 @@
    -watermelon
    
    *PURPLE
+    -eggplant
