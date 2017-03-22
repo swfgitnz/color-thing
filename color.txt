@@ -1,3 +1,8 @@
 *BLUE
   -ocean
   -sky
+  
+*WHITE
+  -salt
+  -sugar
+  -rice
