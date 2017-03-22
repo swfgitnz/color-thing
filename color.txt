@@ -10,3 +10,7 @@
  *YELLOW
   -sun
   -banana
+  
+  *GREEN
+   -leaf
+   -cucumber
