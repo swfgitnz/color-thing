@@ -1,5 +1,5 @@
 
       
-      *SOMETHING
-       something1
-       something2
+      *GREEN_THING
+       greem thing 1
+       green thing 2
