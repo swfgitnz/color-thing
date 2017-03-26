@@ -11,3 +11,4 @@
   -sun
   -banana
   -sunflower
+  -yellow lemon
