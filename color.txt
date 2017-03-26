@@ -12,3 +12,4 @@
   -banana
   -sunflower
   -yellow lemon
+  -cheese
