@@ -13,3 +13,4 @@
   -sunflower
   -yellow lemon
   -cheese
+  -chick
