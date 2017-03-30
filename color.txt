@@ -16,3 +16,4 @@
   -chick
   -oil
   -corn
+  -mango
